@@ -1,0 +1,7 @@
+name: ${pluginName}
+main: ${group}.${packageName}.plugin.${mainClass}
+version: ${version}
+api-version: ${apiVersion}
+commands:
+  sample:
+    description: Sample command
